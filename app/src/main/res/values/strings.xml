@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">WhatsApp AI Bot</string>
+    <string name="default_bot_message">I am not available right now. I will be back soon.</string>
+    <string name="title_activity_bot_settings">BotSettingsActivity</string>
+    <string name="general_header">General</string>
+    <string name="bot_enable_summary_off">Auto reply is turned off.</string>
+    <string name="enable_bot_title">Auto Reply</string>
+    <string name="bot_enable_summary_on">Auto reply turned on.</string>
+    <string name="default_message_title">Reply Message</string>
+    <string name="enable_group_reply_title">Group Reply</string>
+    <string name="group_reply_enable_summary_off">Bot will not reply to group\'s messages.</string>
+    <string name="group_reply_enable_summary_on">Bot will reply to incoming group messages.</string>
+    <string name="reply_prefix_title">Prefix Message</string>
+    <string name="ai_reply_header">AI Reply</string>
+    <string name="ai_reply_enable_summary_off">AI reply is off</string>
+    <string name="ai_reply_enable_summary_on">AI will reply to the messages</string>
+    <string name="enable_ai_reply_title">AI Reply</string>
+    <string name="api_key_title">API Key</string>
+    <string name="llm_model_title">LLM Model</string>
+    <string name="default_reply_prefix">*Bot reply:*</string>
+    <string name="max_reply_title">Max reply per person/day</string>
+    <string name="ai_reply_language_title">AI Reply Language</string>
+    <string name="bot_name_title">Bot\'s Name</string>
+    <string name="setup_page_info">Enhance your WhatsApp experience with our AI-powered auto-reply bot. Customize the bot\'s language and get timely, context-aware replies to your messages based on chat history.</string>
+    <string name="permission_request_text">This app requires notification service permission to function properly.</string>
+    <string name="allow_permission">Allow Permissions</string>
+    <string name="bot_settings">Bot Settings</string>
+    <string name="manage_bot_settings">If you want to customize the bot, then open settings page and adjust the settings according to your desires.</string>
+</resources>
