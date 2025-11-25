@@ -17,5 +17,5 @@ Welcome to the WhatsApp Auto-Reply Bot repository! This AI-powered bot enhances 
 - <b>Group Reply Control: </b> Choose whether or not to send replies in group chats.
 - <b>Custom Bot Name: </b> You can give a name to your AI bot.
 
-## Community
-- <b>Join our Telegram Group: </b> <a href="https://telegram.me/CreativePapaGroup">@CreativePapaGroup</a>
+## Contact me:
+https://www.upwork.com/freelancers/~01407d28da3bf7ce50
